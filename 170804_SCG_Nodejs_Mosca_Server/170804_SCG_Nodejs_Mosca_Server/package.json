@@ -1,0 +1,12 @@
+{
+  "name": "170804_scg_nodejs_mosca_server",
+  "version": "0.0.0",
+  "description": "170804_SCG_Nodejs_Mosca_Server",
+  "main": "app.js",
+  "author": {
+    "name": "UX303"
+  },
+  "dependencies": {
+    "mosca": "^2.5.2"
+  }
+}
